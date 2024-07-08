@@ -1,0 +1,7 @@
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDAL.exe.config
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDAL.exe
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDAL.pdb
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDLL.csproj.AssemblyReference.cache
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDLL.csproj.CoreCompileInputs.cache
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDAL.exe
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDAL.pdb

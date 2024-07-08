@@ -1,0 +1,14 @@
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDAL.csproj.AssemblyReference.cache
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDAL.csproj.CoreCompileInputs.cache
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDAL.exe
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDAL.pdb
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDAL.exe.config
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDAL.exe
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDAL.pdb
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDataBase.exe
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyModel.exe
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDataBase.pdb
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyDataBase.exe.config
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyModel.pdb
+G:\EGBuy\EGBuy\EGBuyDLL\bin\Debug\EGBuyModel.exe.config
+G:\EGBuy\EGBuy\EGBuyDLL\obj\Debug\EGBuyDAL.csproj.CopyComplete
